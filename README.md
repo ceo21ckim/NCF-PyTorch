@@ -10,6 +10,8 @@
 
 `General_Matrix_Factorization.ipynb`: jupyter notebook으로 데이터를 호출하는 것부터 GMF 모델을 구축하는 단계까지 작성되어 있습니다.
 
+`Multiple_Layer_Perceptron.ipynb`: jupyter notebook으로 데이터를 호출하는 것부터 MLP-based NCF 모델을 구축하는 단계까지 작성되어 있습니다.
+
 `Neural_Collaborative_Filtering.ipynb`: jupyter notebook으로 데이터를 호출하는 것부터 NeuMF 모델을 구축하는 단계까지 작성되어 있습니다. 
 
 `main.ipynb`: py 파일로 작성한 모델을 호출하여 학습하는 코드입니다. 
